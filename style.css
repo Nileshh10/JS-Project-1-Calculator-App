@@ -23,3 +23,22 @@ html, body{
     border: 2px solid black;
     border-radius: 5px;
 }
+.cancelbt{
+    border: 2px solid black;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 9px;
+    padding: 20px;
+    width: 66px;
+    margin: 0px 3px;
+}
+.prbt{
+    border: 2px solid black;
+    cursor: pointer;
+    font-size: 20px; 
+    border-radius: 9px;
+    padding: 20px;
+    width: 66px;
+    margin: 0px 3px;
+    
+}
