@@ -23,22 +23,32 @@ html, body{
     border: 2px solid black;
     border-radius: 5px;
 }
-.cancelbt{
+.acbtn{
     border: 2px solid black;
     cursor: pointer;
     font-size: 20px;
     border-radius: 9px;
     padding: 20px;
-    width: 66px;
+    width: 103px;
+    margin: 0px 3px;
+    
+}
+.cbtn{
+    border: 2px solid black;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 9px;
+    padding: 20px;
+    width: 103px;
     margin: 0px 3px;
 }
-.prbt{
+.ebtn{
     border: 2px solid black;
     cursor: pointer;
     font-size: 20px; 
     border-radius: 9px;
     padding: 20px;
-    width: 66px;
+    width: 142px;
     margin: 0px 3px;
     
 }
